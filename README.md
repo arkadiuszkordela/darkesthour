@@ -4,5 +4,5 @@ My files for Darkest Hour: A Hearts of Iron Game.
 
 Links to forum topics:
 
-1. Mod - https://forum.paradoxplaza.com/forum/threads/harsh-mod-gfx-modification.1731898
+1. Harsh mod - https://forum.paradoxplaza.com/forum/threads/harsh-mod-gfx-modification.1731898
 
