@@ -1,4 +1,4 @@
-My files for Darkest Hour: A Hearts of Iron Game.
+My files for Darkest Hour: A Hearts of Iron Game:
 
 1. Harsh mod - individual files in a folder and the whole thing in a zip archive
 
